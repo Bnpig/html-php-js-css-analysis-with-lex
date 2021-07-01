@@ -1,0 +1,1 @@
+<?php if (isset($_GET['view']) && FM_USE_HIGHLIGHTJS): ?>

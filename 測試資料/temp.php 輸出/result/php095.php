@@ -1,0 +1,1 @@
+<?php echo fm_t('Full path:') ?>

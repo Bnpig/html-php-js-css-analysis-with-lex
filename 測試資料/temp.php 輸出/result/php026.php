@@ -1,0 +1,1 @@
+<?php echo FM_ROOT_PATH ?>

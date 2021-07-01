@@ -1,0 +1,1 @@
+<?php echo fm_enc(FM_PATH) ?>

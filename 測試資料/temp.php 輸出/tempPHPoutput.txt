@@ -1,0 +1,985 @@
+lang
+use_auth
+auth_users
+readonly_users
+show_hidden_files
+use_highlightjs
+highlightjs_style
+default_timezone
+root_path
+_SERVER
+root_url
+http_host
+iconv_input_encoding
+{
+}
+{
+    {
+    }
+    {
+    }
+}
+{
+}
+is_https
+{
+}
+_GET
+{
+    _SESSION
+}
+{
+}
+{
+    languages
+    _SESSION
+    {
+    }
+    _POST
+    {
+        {
+            {
+            }
+            {
+            }
+        }
+        {
+        }
+    }
+    {
+        {
+        }
+        l
+    }
+}
+_SESSION
+{
+}
+p
+_POST
+{
+    del
+    {
+        path
+        {
+        }
+        is_dir
+        {
+            msg
+        }
+        {
+            msg
+        }
+    }
+    {
+    }
+}
+{
+    new
+    {
+        path
+        {
+        }
+        {
+        }
+        {
+        }
+        {
+        }
+    }
+    {
+    }
+}
+{
+    copy
+    {
+    }
+    from
+    dest
+    {
+    }
+    move
+    {
+        msg_from
+        {
+            rename
+            {
+            }
+            {
+            }
+            {
+            }
+        }
+        {
+            {
+            }
+            {
+            }
+        }
+    }
+    {
+    }
+}
+{
+    path
+    {
+    }
+    copy_to_path
+    copy_to
+    {
+    }
+    {
+    }
+    {
+        {
+        }
+    }
+    move
+    errors
+    files
+    {
+        {
+            f
+            {
+                from
+                dest
+                {
+                    rename
+                    {
+                    }
+                }
+                {
+                    {
+                    }
+                }
+            }
+        }
+        {
+            msg
+        }
+        {
+            msg
+        }
+    }
+    {
+    }
+}
+{
+    old
+    new
+    path
+    {
+    }
+    {
+        {
+        }
+        {
+        }
+    }
+    {
+    }
+}
+{
+    dl
+    path
+    {
+    }
+    {
+    }
+    {
+    }
+}
+{
+    path
+    {
+    }
+    errors
+    uploads
+    total
+    _FILES
+    {
+        i
+        tmp_name
+        {
+            {
+            }
+            {
+            }
+        }
+    }
+    {
+    }
+    {
+    }
+    {
+    }
+}
+{
+    path
+    {
+    }
+    errors
+    files
+    {
+        {
+            f
+            {
+                new_path
+                {
+                }
+            }
+        }
+        {
+        }
+        {
+        }
+    }
+    {
+    }
+}
+{
+    path
+    {
+    }
+    {
+    }
+    files
+    {
+        {
+            one_file
+            zipname
+        }
+        {
+            zipname
+        }
+        zipper
+        res
+        zipname
+        {
+        }
+        {
+        }
+    }
+    {
+    }
+}
+{
+    unzip
+    path
+    {
+    }
+    {
+    }
+    {
+        zip_path
+        tofolder
+        {
+            {
+            }
+        }
+        zipper
+        res
+        {
+        }
+        {
+        }
+    }
+    {
+    }
+}
+{
+    path
+    {
+    }
+    file
+    {
+    }
+    mode
+    {
+    }
+    {
+    }
+    {
+    }
+    {
+    }
+    {
+    }
+    {
+    }
+    {
+    }
+    {
+    }
+    {
+    }
+    {
+    }
+    {
+    }
+}
+path
+{
+}
+{
+}
+parent
+objects
+folders
+files
+{
+    {
+        file
+        {
+        }
+        {
+        }
+        new_path
+        {
+        }
+        {
+        }
+    }
+}
+{
+}
+{
+}
+{
+}
+{
+    copy_files
+    {
+    }
+    {
+        cf
+    }
+}
+{
+    copy
+    {
+    }
+    {
+    }
+    {
+        f
+    }
+}
+{
+    file
+    {
+    }
+    file_url
+    file_path
+    ext
+    mime_type
+    filesize
+    is_zip
+    is_image
+    is_audio
+    is_video
+    is_text
+    view_title
+    filenames
+    content
+    {
+    }
+    {
+    }
+    {
+    }
+    {
+    }
+    {
+    }
+    {
+        total_files
+        total_comp
+        total_uncomp
+        {
+            fn
+            {
+            }
+        }
+    }
+    {
+        image_size
+    }
+    {
+        is_utf8
+        {
+            {
+            }
+        }
+    }
+    {
+        zip_name
+    }
+    {
+        {
+            {
+                fn
+                {
+                }
+                {
+                }
+            }
+        }
+        {
+        }
+    }
+    {
+        {
+        }
+    }
+    {
+    }
+    {
+    }
+    {
+        {
+            hljs_classes
+            hljs_class
+            {
+            }
+        }
+        {
+        }
+        {
+        }
+    }
+}
+{
+    file
+    {
+    }
+    file_url
+    file_path
+    mode
+}
+num_files
+num_folders
+all_files_size
+{
+}
+{
+    f
+    is_link
+    img
+    modif
+    perms
+    {
+        owner
+        group
+    }
+    {
+        owner
+        group
+    }
+    owner
+    group
+}
+{
+    f
+    is_link
+    img
+    modif
+    filesize_raw
+    filesize
+    filelink
+    perms
+    {
+        owner
+        group
+    }
+    {
+        owner
+        group
+    }
+    owner
+    group
+}
+{
+}
+{
+}
+function fm_rdelete()
+{
+    {
+    }
+    {
+        ok
+        {
+            {
+                file
+                {
+                    {
+                    }
+                }
+            }
+        }
+    }
+    {
+    }
+}
+function fm_rchmod()
+{
+    filemode
+    dirmode
+    {
+        {
+        }
+        {
+            {
+                file
+                {
+                    {
+                    }
+                }
+            }
+        }
+    }
+    {
+    }
+    {
+    }
+}
+function fm_rename()
+{
+    old
+    new
+}
+function fm_rcopy()
+{
+    dest
+    upd
+    force
+    {
+        {
+        }
+        ok
+        {
+            {
+                file
+                {
+                    {
+                    }
+                }
+            }
+        }
+    }
+    {
+    }
+}
+function fm_mkdir()
+{
+    dir
+    force
+    {
+        {
+        }
+        {
+        }
+    }
+}
+function fm_copy()
+{
+    f1
+    f2
+    upd
+    time1
+    {
+        time2
+        {
+        }
+    }
+    ok
+    {
+    }
+}
+function fm_get_mime_type()
+{
+    file_path
+    {
+        finfo
+        mime
+    }
+    {
+    }
+    {
+        file
+        mime
+    }
+    {
+    }
+}
+function fm_redirect()
+{
+    url
+    code
+}
+function fm_clean_path()
+{
+    {
+    }
+}
+function fm_get_parent_path()
+{
+    {
+        array
+        {
+        }
+    }
+}
+function fm_get_filesize()
+{
+    size
+    {
+    }
+    {
+    }
+    {
+    }
+    {
+    }
+}
+function fm_get_zif_info()
+{
+    {
+        arch
+        {
+            filenames
+            {
+                zip_entry
+                zip_name
+                zip_folder
+            }
+        }
+    }
+}
+function fm_enc()
+{
+    text
+}
+function fm_set_msg()
+{
+    msg
+    status
+}
+function fm_is_utf8()
+{
+    string
+}
+function fm_convert_win()
+{
+    filename
+    {
+    }
+}
+function fm_t()
+{
+    str
+    {
+        {
+        }
+        {
+        }
+    }
+    strings
+    {
+    }
+    {
+    }
+}
+function fm_get_file_icon_class()
+{
+    ext
+    {
+        img
+    }
+    img
+}
+function fm_get_image_exts()
+{
+}
+function fm_get_video_exts()
+{
+}
+function fm_get_audio_exts()
+{
+}
+function fm_get_text_exts()
+{
+}
+function fm_get_text_mimes()
+{
+}
+function fm_get_text_names()
+{
+}
+{
+    zip
+function __construct()
+    {
+        this
+    }
+function create()
+    {
+        filename
+        res
+        this
+        {
+        }
+        {
+            {
+                f
+                {
+                }
+            }
+        }
+        {
+            {
+            }
+        }
+    }
+function unzip()
+    {
+        filename
+        res
+        this
+        {
+        }
+        {
+        }
+    }
+    filename
+function addFileOrDir()
+    {
+        {
+            this
+        }
+        {
+            this
+        }
+    }
+function addDir()
+    {
+        this
+        {
+        }
+        {
+            {
+                file
+                {
+                    {
+                        {
+                        }
+                    }
+                    {
+                        {
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+function fm_show_nav_path()
+{
+    sep
+    {
+        exploded
+        count
+        array
+        {
+            i
+            parent_enc
+        }
+    }
+}
+function fm_show_message()
+{
+    {
+        class
+    }
+}
+function fm_show_header()
+{
+    sprites_ver
+}
+function fm_show_footer()
+{
+}
+function fm_show_image()
+{
+    img
+    modified_time
+    expires_time
+    images
+    image
+    {
+    }
+    {
+        size
+    }
+    {
+        size
+    }
+    {
+    }
+    {
+    }
+    size
+}
+function fm_get_images()
+{
+}
+function fm_get_strings()
+{
+    strings
+    {
+    }
+    l10n_path
+    {
+        l10n_strings
+        {
+        }
+    }
+}
+function fm_get_available_langs()
+{
+    strings
+    languages
+}
+=======tree=======
+lang : 20
+use_auth : 7
+auth_users : 5
+readonly_users : 3
+show_hidden_files : 2
+use_highlightjs : 3
+highlightjs_style : 3
+default_timezone : 2
+root_path : 7
+_SERVER : 8
+root_url : 8
+http_host : 3
+iconv_input_encoding : 3
+is_https : 3
+_GET : 33
+_SESSION : 20
+languages : 7
+_POST : 38
+l : 4
+p : 5
+del : 12
+path : 127
+is_dir : 3
+msg : 10
+new : 26
+copy : 19
+from : 9
+dest : 13
+move : 6
+msg_from : 5
+rename : 5
+copy_to_path : 6
+copy_to : 3
+errors : 11
+files : 20
+f : 45
+old : 12
+dl : 10
+uploads : 5
+total : 1
+_FILES : 4
+i : 6
+tmp_name : 4
+new_path : 5
+one_file : 4
+zipname : 4
+zipper : 4
+res : 8
+unzip : 8
+zip_path : 3
+tofolder : 4
+file : 67
+mode : 21
+parent : 9
+objects : 10
+folders : 6
+copy_files : 4
+cf : 2
+file_url : 6
+file_path : 15
+ext : 14
+mime_type : 4
+filesize : 5
+is_zip : 5
+is_image : 4
+is_audio : 3
+is_video : 3
+is_text : 4
+view_title : 6
+filenames : 8
+content : 12
+total_files : 3
+total_comp : 4
+total_uncomp : 4
+fn : 9
+image_size : 5
+is_utf8 : 3
+zip_name : 5
+hljs_classes : 3
+hljs_class : 3
+num_files : 2
+num_folders : 2
+all_files_size : 4
+is_link : 6
+img : 33
+modif : 4
+perms : 6
+owner : 6
+group : 6
+filesize_raw : 4
+filelink : 2
+ok : 9
+filemode : 3
+dirmode : 3
+upd : 4
+force : 4
+dir : 6
+f1 : 3
+f2 : 5
+time1 : 3
+time2 : 2
+finfo : 3
+mime : 4
+url : 2
+code : 2
+array : 8
+size : 11
+arch : 3
+zip_entry : 4
+zip_folder : 2
+text : 2
+status : 2
+string : 2
+filename : 14
+str : 6
+strings : 16
+zip : 1
+this : 15
+sep : 3
+exploded : 3
+count : 1
+parent_enc : 1
+class : 2
+sprites_ver : 1
+modified_time : 2
+expires_time : 2
+images : 3
+image : 7
+l10n_path : 3
+l10n_strings : 4
+=======count=======

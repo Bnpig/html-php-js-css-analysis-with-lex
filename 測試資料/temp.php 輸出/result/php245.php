@@ -1,0 +1,1 @@
+<?php if (FM_USE_AUTH): ?>

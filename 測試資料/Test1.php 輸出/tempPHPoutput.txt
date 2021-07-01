@@ -1,0 +1,21 @@
+username
+password
+_POST
+{
+    dao
+    sql
+    {
+        _SESSION
+    }
+    {
+        _SESSION
+    }
+}
+=======tree=======
+username : 5
+password : 5
+_POST : 4
+dao : 5
+sql : 6
+_SESSION : 2
+=======count=======

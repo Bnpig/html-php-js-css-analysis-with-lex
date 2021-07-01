@@ -1,0 +1,1 @@
+<?php echo urlencode(trim(FM_PATH . '/' . $f, '/')) ?>

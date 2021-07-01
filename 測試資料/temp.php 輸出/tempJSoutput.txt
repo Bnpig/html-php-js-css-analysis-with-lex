@@ -1,0 +1,59 @@
+function newfolder()
+{
+    p
+    n
+    {
+    }
+}
+function rename()
+{
+    p
+    f
+    n
+    {
+    }
+}
+function change_checkboxes()
+{
+    l
+    v
+    i
+    {
+    }
+}
+function get_checkboxes()
+{
+    i
+    a
+    j
+    {
+        {
+        }
+    }
+}
+function select_all()
+{
+    l
+}
+function unselect_all()
+{
+    l
+}
+function invert_all()
+{
+    l
+}
+function checkbox_toggle()
+{
+    l
+}
+=======tree=======
+p : 2
+n : 2
+f : 1
+l : 5
+v : 1
+i : 2
+a : 1
+j : 1
+=======count=======

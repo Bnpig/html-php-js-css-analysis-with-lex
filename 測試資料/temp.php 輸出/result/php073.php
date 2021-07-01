@@ -1,0 +1,1 @@
+<?php echo round(($total_comp / $total_uncomp) * 100) ?>

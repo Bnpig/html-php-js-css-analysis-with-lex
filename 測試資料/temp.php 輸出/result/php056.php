@@ -1,0 +1,1 @@
+<?php echo fm_t($view_title) ?>

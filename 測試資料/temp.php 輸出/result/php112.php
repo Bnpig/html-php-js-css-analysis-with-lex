@@ -1,0 +1,1 @@
+<?php echo ($mode & 00010) ? ' checked' : '' ?>

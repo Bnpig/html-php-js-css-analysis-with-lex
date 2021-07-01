@@ -1,0 +1,391 @@
+read result/index.php
+<div>
+    <form>
+        <input>
+        <input>
+        <select>
+            <option>
+        <input>
+<div>
+    <p>
+        <b>
+    <p>
+    <form>
+        <input>
+        <input>
+        <input>
+        <br>
+        <input>
+        <br>
+        <input>
+        <br>
+        <input>
+        <br>
+        <input>
+        <br>
+        <br>
+        <p>
+            <button>
+                <i>
+            <b>
+                <a>
+                    <i>
+<div>
+    <p>
+        <b>
+    <form>
+        <input>
+        <input>
+        <p>
+            <b>
+        <p>
+            <br>
+            <label>
+            <input>
+        <p>
+            <label>
+                <input>
+        <p>
+            <button>
+                <i>
+            <b>
+                <a>
+                    <i>
+<div>
+    <p>
+        <b>
+    <p>
+        <br>
+    <p>
+        <b>
+            <a>
+                <i>
+        <b>
+            <a>
+                <i>
+        <b>
+            <a>
+                <i>
+    <p>
+        <i>
+    <ul>
+        <li>
+            <a>
+                <i>
+        <li>
+            <a>
+                <i>
+<div>
+    <p>
+        <b>
+    <p>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+    <p>
+        <b>
+            <a>
+                <i>
+        <b>
+            <a>
+                <i>
+        <b>
+            <a>
+                <i>
+        <b>
+            <a>
+                <i>
+        <b>
+            <a>
+                <i>
+<div>
+    <p>
+        <b>
+    <p>
+        <br>
+    <form>
+        <input>
+        <input>
+        <table>
+            <tr>
+                <td>
+                <td>
+                    <b>
+                <td>
+                    <b>
+                <td>
+                    <b>
+            <tr>
+                <td>
+                    <b>
+                <td>
+                    <label>
+                        <input>
+                <td>
+                    <label>
+                        <input>
+                <td>
+                    <label>
+                        <input>
+            <tr>
+                <td>
+                    <b>
+                <td>
+                    <label>
+                        <input>
+                <td>
+                    <label>
+                        <input>
+                <td>
+                    <label>
+                        <input>
+            <tr>
+                <td>
+                    <b>
+                <td>
+                    <label>
+                        <input>
+                <td>
+                    <label>
+                        <input>
+                <td>
+                    <label>
+                        <input>
+        <p>
+            <button>
+                <i>
+            <b>
+                <a>
+                    <i>
+<form>
+    <input>
+    <input>
+    <table>
+        <tr>
+            <th>
+                <label>
+                    <input>
+            <th>
+            <th>
+            <th>
+            <th>
+            <th>
+            <th>
+        <tr>
+            <td>
+            <td>
+                <a>
+                    <i>
+        <tr>
+            <td>
+                <label>
+                    <input>
+            <td>
+                <div>
+                    <a>
+                        <i>
+            <td>
+            <td>
+            <td>
+                <a>
+            <td>
+            <td>
+                <a>
+                    <i>
+                <a>
+                    <i>
+                <a>
+                    <i>
+                <a>
+                    <i>
+        <tr>
+            <td>
+                <label>
+                    <input>
+            <td>
+                <div>
+                    <a>
+                        <i>
+            <td>
+                <span>
+            <td>
+            <td>
+                <a>
+            <td>
+            <td>
+                <a>
+                    <i>
+                <a>
+                    <i>
+                <a>
+                    <i>
+                <a>
+                    <i>
+                <a>
+                    <i>
+        <tr>
+            <td>
+            <td>
+                <em>
+        <tr>
+            <td>
+            <td>
+                <span>
+    <p>
+        <a>
+            <i>
+        <a>
+            <i>
+        <a>
+            <i>
+    <p>
+        <input>
+        <input>
+        <input>
+<div>
+    <div>
+        <a>
+            <i>
+        <a>
+            <i>
+        <a>
+            <i>
+<!DOCTYPE>
+<html>
+    <head>
+        <meta>
+        <title>
+        <link>
+        <link>
+        <link>
+        <link>
+    <body>
+        <div>
+            <p>
+                <small>
+                    <a>
+        <script>
+        <script>
+        <script>
+eof
+=====tree=====
+div : 11
+form : 5
+input : 33
+select : 1
+option : 1
+p : 21
+b : 23
+br : 16
+button : 3
+i : 35
+a : 34
+label : 14
+ul : 1
+li : 2
+table : 2
+tr : 10
+td : 36
+th : 7
+span : 2
+em : 1
+!DOCTYPE : 1
+html : 1
+head : 1
+meta : 1
+title : 1
+link : 4
+body : 1
+small : 1
+script : 3
+=====count=====
+title has File Manager
+label has <?php include 'php025.php'; ?>
+label has  <?php include 'php028.php'; ?>
+label has 
+label has 
+label has 
+label has 
+label has 
+label has 
+label has 
+label has 
+label has 
+label has 
+label has 
+label has 
+a has  <?php include 'php016.php'; ?>
+a has  <?php include 'php031.php'; ?>
+a has  <?php include 'php040.php'; ?>
+a has  <?php include 'php043.php'; ?>
+a has  <?php include 'php045.php'; ?>
+a has  ..
+a has  <?php include 'php053.php'; ?>
+a has  <?php include 'php077.php'; ?>
+a has  <?php include 'php079.php'; ?>
+a has  <?php include 'php083.php'; ?>
+a has 
+                    <?php include 'php088.php'; ?>
+a has  <?php include 'php091.php'; ?>
+a has  <?php include 'php116.php'; ?>
+a has  ..
+a has  <?php include 'php143.php'; ?>
+a has <?php include 'php152.php'; ?>
+a has 
+a has 
+a has 
+a has 
+a has  <?php include 'php178.php'; ?>
+a has <?php include 'php188.php'; ?>
+a has 
+a has 
+a has 
+a has 
+a has 
+a has  <?php include 'php229.php'; ?>
+a has  <?php include 'php230.php'; ?>
+a has  <?php include 'php231.php'; ?>
+a has 
+a has 
+a has 
+a has PHP File Manager
+=====tags=====
+?p=<?php include 'php015.php'; ?>
+?p=<?php include 'php030.php'; ?>
+?p=<?php include 'php038.php'; ?>&amp;copy=<?php include 'php039.php'; ?>&amp;finish=1
+?p=<?php include 'php041.php'; ?>&amp;copy=<?php include 'php042.php'; ?>&amp;finish=1&amp;move=1
+?p=<?php include 'php044.php'; ?>
+?p=<?php include 'php048.php'; ?>&amp;copy=<?php include 'php049.php'; ?>
+?p=<?php include 'php051.php'; ?>&amp;copy=<?php include 'php052.php'; ?>
+?p=<?php include 'php075.php'; ?>&amp;dl=<?php include 'php076.php'; ?>
+<?php include 'php078.php'; ?>
+?p=<?php include 'php081.php'; ?>&amp;unzip=<?php include 'php082.php'; ?>
+?p=<?php include 'php084.php'; ?>&amp;unzip=<?php include 'php085.php'; ?>&amp;tofolder=1
+?p=<?php include 'php090.php'; ?>
+?p=<?php include 'php115.php'; ?>
+?p=<?php include 'php136.php'; ?>
+?p=<?php include 'php141.php'; ?>
+?p=<?php include 'php150.php'; ?>&amp;chmod=<?php include 'php151.php'; ?>
+?p=<?php include 'php160.php'; ?>&amp;del=<?php include 'php161.php'; ?>
+#
+?p=&amp;copy=<?php include 'php167.php'; ?>
+<?php include 'php170.php'; ?>
+<?php include 'php175.php'; ?>
+?p=<?php include 'php186.php'; ?>&amp;chmod=<?php include 'php187.php'; ?>
+?p=<?php include 'php196.php'; ?>&amp;del=<?php include 'php197.php'; ?>
+#
+?p=<?php include 'php203.php'; ?>&amp;copy=<?php include 'php204.php'; ?>
+<?php include 'php207.php'; ?>
+?p=<?php include 'php209.php'; ?>&amp;dl=<?php include 'php210.php'; ?>
+#
+#
+#
+?p=<?php include 'php241.php'; ?>&amp;upload
+#
+?logout=1
+https://github.com/alexantr/filemanager
+=====links=====

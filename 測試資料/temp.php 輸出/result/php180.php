@@ -1,0 +1,1 @@
+<?php printf(fm_t('%s byte'), $filesize_raw) ?>

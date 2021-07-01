@@ -1,0 +1,1 @@
+<?php echo $mime_type ?>

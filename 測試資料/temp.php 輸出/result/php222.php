@@ -1,0 +1,1 @@
+<?php echo fm_get_filesize($all_files_size) ?>

@@ -1,0 +1,45 @@
+read result/index.php
+<html>
+    <head>
+        <title>
+        <meta>
+    <body>
+        <center>
+            <h2>
+            <hr>
+                <small>
+                    <font>
+        <form>
+            <table>
+                <tr>
+                    <td>
+                    <td>
+                        <input>
+                <tr>
+                    <td>
+                    <td>
+                        <input>
+                <tr>
+                    <td>
+                        <input>
+eof
+=====tree=====
+html : 1
+head : 1
+title : 1
+meta : 1
+body : 1
+center : 1
+h2 : 1
+hr : 1
+small : 1
+font : 1
+form : 1
+table : 1
+tr : 3
+td : 5
+input : 3
+=====count=====
+title has µn¤Jºô¯¸
+=====tags=====
+=====links=====

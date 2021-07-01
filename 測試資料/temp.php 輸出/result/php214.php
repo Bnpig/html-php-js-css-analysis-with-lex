@@ -1,0 +1,1 @@
+<?php echo !FM_IS_WIN ? '6' : '4' ?>

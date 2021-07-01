@@ -1,0 +1,1 @@
+<?php echo sprintf(fm_t('%s byte'), $filesize) ?>

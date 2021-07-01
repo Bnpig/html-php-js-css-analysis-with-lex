@@ -1,0 +1,1 @@
+<?php echo urlencode(FM_PATH) ?>

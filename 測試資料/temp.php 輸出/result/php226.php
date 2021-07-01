@@ -1,0 +1,1 @@
+<?php echo $num_folders ?>

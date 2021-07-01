@@ -1,0 +1,48 @@
+read result/index.php
+<html>
+    <head>
+        <title>
+        <meta>
+        <link>
+    <body>
+        <form>
+            <h2>
+            <hr>
+                <table>
+                    <tr>
+                        <td>
+                        <td>
+                            <input>
+                    <tr>
+                        <td>
+                        <td>
+                            <input>
+                    <tr>
+                        <td>
+                        <td>
+                            <input>
+                    <tr>
+                        <td>
+                        <td>
+                            <input>
+                <hr>
+                    <input>
+eof
+=====tree=====
+html : 1
+head : 1
+title : 1
+meta : 1
+link : 1
+body : 1
+form : 1
+h2 : 1
+hr : 2
+table : 1
+tr : 4
+td : 8
+input : 5
+=====count=====
+title has 新增資料表記錄
+=====tags=====
+=====links=====

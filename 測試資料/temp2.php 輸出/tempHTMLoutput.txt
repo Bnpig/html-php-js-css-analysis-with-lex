@@ -1,0 +1,33 @@
+read result/index.php
+<html>
+    <head>
+        <meta>
+    <body>
+        <form>
+            <label>
+            <input>
+            <br>
+            <label>
+            <input>
+            <br>
+            <label>
+            <input>
+            <br>
+            <button>
+eof
+=====tree=====
+html : 1
+head : 1
+meta : 1
+body : 1
+form : 1
+label : 3
+input : 3
+br : 3
+button : 1
+=====count=====
+label has 帳號  
+label has 密碼  
+label has 信箱  
+=====tags=====
+=====links=====

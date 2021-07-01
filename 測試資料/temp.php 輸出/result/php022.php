@@ -1,0 +1,1 @@
+<?php echo implode('</b>, <b>', $copy_files) ?>

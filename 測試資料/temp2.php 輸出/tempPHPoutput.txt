@@ -1,0 +1,47 @@
+_SERVER
+_POST
+{
+    servername
+    username
+    password
+    dbname
+    cc
+    {
+        conn
+        result
+        {
+        }
+        {
+        }
+        {
+        }
+        {
+            regpass
+            sss
+        }
+    }
+    e
+    {
+        sql
+    }
+    conn
+    {
+        _SESSION
+    }
+}
+=======tree=======
+_SERVER : 4
+_POST : 9
+servername : 2
+username : 2
+password : 2
+dbname : 2
+cc : 3
+conn : 5
+result : 2
+regpass : 2
+sss : 2
+e : 2
+sql : 1
+_SESSION : 1
+=======count=======

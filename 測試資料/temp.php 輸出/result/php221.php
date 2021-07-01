@@ -1,0 +1,1 @@
+<?php printf(fm_t('%s byte'), $all_files_size) ?>
